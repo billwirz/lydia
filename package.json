@@ -1,0 +1,19 @@
+{
+  "name": "lydia",
+  "version": "1.0.0",
+  "description": "AI Portal",
+  "main": "./backend/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billwirz/lydia.git"
+  },
+  "author": "Willy Andres Wirz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/billwirz/lydia/issues"
+  },
+  "homepage": "https://github.com/billwirz/lydia#readme"
+}
